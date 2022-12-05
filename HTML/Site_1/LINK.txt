@@ -1,2 +1,2 @@
 LINK:
-https://santiagoleites.github.io/personal-code-repo/Site_1/index.html
+https://santiagoleites.github.io/personal-code-repo/HTML/Site_1/index.html
