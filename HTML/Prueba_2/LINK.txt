@@ -1,2 +1,2 @@
 LINK:
-https://santiagoleites.github.io/personal-code-repo/Prueba_2/kitchen.html
+https://santiagoleites.github.io/personal-code-repo/HTML/Prueba_2/kitchen.html
