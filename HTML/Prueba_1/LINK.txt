@@ -1,2 +1,2 @@
 LINK:
-https://santiagoleites.github.io/personal-code-repo/Prueba_1/Prueba_1.html
+https://santiagoleites.github.io/personal-code-repo/HTML/Prueba_1/Prueba_1.html
