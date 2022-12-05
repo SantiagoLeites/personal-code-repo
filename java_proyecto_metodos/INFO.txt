@@ -1,1 +1,0 @@
-Put this folder on the eclipse proyect folder to visualize the program.
