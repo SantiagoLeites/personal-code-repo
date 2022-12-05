@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"px.metodos"},{"l":"px.proyecto"}];updateSearchResults();
