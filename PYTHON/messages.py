@@ -1,3 +1,6 @@
+
+#Este es un Script para enviar multiples mensajes a una red social.
+
 import pyautogui as pt
 import time
 
