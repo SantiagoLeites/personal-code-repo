@@ -2,7 +2,7 @@ import sys
 from PyQt5.QtWidgets import QApplication, QMainWindow, QWidget, QVBoxLayout, QLabel, QFormLayout, QLineEdit, QTextEdit, QLCDNumber, QAction, QFileDialog, QCalendarWidget, QMessageBox
 from PyQt5.QtCore import QTimer, QTime, Qt, QDateTime
 from PyQt5.QtGui import QPalette, QColor
-from PyQt4.QtCore import QPixmap
+from PyQt5.QtCore import QPixmap
 
 class CalendarApp(QMainWindow):
     def __init__(self):
@@ -11,10 +11,10 @@ class CalendarApp(QMainWindow):
         self.setGeometry(100, 100, 800, 300)
 
         # Cargar la imagen de fondo vaporwave
-        background_image = QPixmap('C:\Users\Santiago\Pictures\deah.png')
-        if not background_image.isNull():
-            self.setFixedSize(background_image.width(), background_image.height())
-            self.setPixmap(background_image)
+        # background_image = QPixmap('C:\Users\Santiago\Pictures\deah.png')
+        # if not background_image.isNull():
+            # self.setFixedSize(background_image.width(), background_image.height())
+            # self.setPixmap(background_image)
 
         # Crear la ventana principal
         self.main_widget = QWidget(self)
