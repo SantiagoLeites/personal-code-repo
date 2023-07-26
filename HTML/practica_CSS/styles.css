@@ -1,0 +1,60 @@
+/* CSS Document */
+
+@media (prefers-color-scheme: dark) {
+		.body.white-scheme{
+			height: 100%;
+			background: white;
+			color: white;
+		}
+ 		.body.dark-scheme {
+ 			height: 100%;
+ 			background: black;
+ 			color: white;
+		}
+		.title {
+			display: flex;
+			background-color: darkblue;
+			color: white;
+			padding:  10px 20px;
+			border-radius: 5px;
+			text-align: center;
+			text-decoration: none;
+			cursor: pointer;
+			background-position: center;
+			transition: background-color 0.3s;
+			justify-content: center;
+		}
+		
+    	/* CSS for buttons */
+    	.button {
+      		display: inline-block;
+      		padding: 10px 20px;
+      		background-color: #3498db;
+      		color: #fff;
+      		text-decoration: none;
+      		border-radius: 5px;
+      		font-size: 16px;
+      		cursor: pointer;
+      		/*background-image: url('01/button_bg_image.jpg');*/ 
+      		background-size: cover;
+      		background-position: center;
+      		transition: background-color 0.3s;
+    	}
+
+    	.button:hover {
+     		background-color: #2980b9;
+    	}
+
+    body {
+      display: center;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+      background-color: #f1f1f1;
+    }
+
+    	.button-container {
+      		text-align: center;
+    }
+}
