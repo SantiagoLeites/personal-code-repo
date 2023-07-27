@@ -1,17 +1,8 @@
-/* CSS Document */
 
 @media (prefers-color-scheme: dark) {
-		.body.white-scheme{
-			height: 100%;
-			background: white;
-			color: white;
-		}
- 		.body.dark-scheme {
- 			height: 100%;
- 			background: black;
- 			color: white;
-		}
-		.title {
+	
+	
+	.title {
 			display: flex;
 			background-color: darkblue;
 			color: white;
@@ -46,15 +37,17 @@
     	}
 
     body {
-      display: center;
-      justify-content: center;
-      align-items: center;
-      height: 100vh;
-      margin: 0;
-      background-color: #f1f1f1;
-    }
-
+      	display: center;
+      	justify-content: center;
+      	align-items: center;
+      	height: 100vh;
+      	margin: 0;
+		color: #b0b0b0;
+        background-color: #101010;
+    }	
     	.button-container {
       		text-align: center;
     }
+
 }
+		
