@@ -1,19 +1,18 @@
 
 @media (prefers-color-scheme: dark) {
 	
-	
 	.title {
-			display: flex;
-			background-color: darkblue;
-			color: white;
-			padding:  10px 20px;
-			border-radius: 5px;
-			text-align: center;
-			text-decoration: none;
-			cursor: pointer;
-			background-position: center;
-			transition: background-color 0.3s;
-			justify-content: center;
+		display: flex;
+		background-color: darkblue;
+		color: white;
+		padding:  10px 20px;
+		border-radius: 5px;
+		text-align: center;
+		text-decoration: none;
+		cursor: pointer;
+		background-position: center;
+		transition: background-color 0.3s;
+		justify-content: center;
 		}
 		
     	/* CSS for buttons */
@@ -42,7 +41,7 @@
       	align-items: center;
       	height: 100vh;
       	margin: 0;
-		color: #b0b0b0;
+	color: #b0b0b0;
         background-color: #101010;
     }	
     	.button-container {
